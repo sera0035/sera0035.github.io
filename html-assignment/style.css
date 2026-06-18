@@ -1,0 +1,41 @@
+body {
+    font-family:Arial, Helvetica, sans-serif
+}
+body {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #3333333;
+    margin: 0;
+    padding: 20px;
+    background-color: #eeeeee;
+}
+
+header, footer {
+    background-color: #2c3e50;  
+    color: #ffffffff
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+.site title {
+    color: #ecf0f1
+}
+#my-image {
+    display:block
+}
+.hobby-list {
+    list-style-type: square;
+    padding-left: 25px;
+    .hubby-list li:nth-child
+    background-color #eeeeee    
+}
+main article {
+    background: #ffffff;
+    padding: 20px
+}
+block quotes{
+    margin: 10px;
+    padding-left: 15px;
+    border-left: 4px solid #2c3e50;
+    font font-style: italic;
+}
