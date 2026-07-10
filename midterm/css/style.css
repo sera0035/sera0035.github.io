@@ -20,3 +20,8 @@ nav ul{
     justify-content: center;
     padding: 0;
 }
+
+main img{
+    float: left;
+    margin-right: 20px;
+}
